@@ -1,0 +1,16 @@
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.csprojAssemblyReference.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\staticwebassets\locadora_mvc.StaticWebAssets.Manifest.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\staticwebassets\locadora_mvc.StaticWebAssets.xml
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.AssemblyInfoInputs.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.AssemblyInfo.cs
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.exe
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.deps.json
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.runtimeconfig.json
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.runtimeconfig.dev.json
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.dll
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\bin\Debug\netcoreapp3.1\locadora_mvc.pdb
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.RazorTargetAssemblyInfo.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.dll
+C:\Users\thiago.falcao.ALUNOS\locadora_mvc\obj\Debug\netcoreapp3.1\locadora_mvc.pdb
