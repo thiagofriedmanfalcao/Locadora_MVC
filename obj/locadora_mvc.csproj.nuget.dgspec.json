@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiago.falcao.ALUNOS\\locadora_mvc\\locadora_mvc.csproj": {}
+    "C:\\Users\\thiago.falcao.ALUNOS\\Locadora_MVC\\locadora_mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiago.falcao.ALUNOS\\locadora_mvc\\locadora_mvc.csproj": {
+    "C:\\Users\\thiago.falcao.ALUNOS\\Locadora_MVC\\locadora_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiago.falcao.ALUNOS\\locadora_mvc\\locadora_mvc.csproj",
+        "projectUniqueName": "C:\\Users\\thiago.falcao.ALUNOS\\Locadora_MVC\\locadora_mvc.csproj",
         "projectName": "locadora_mvc",
-        "projectPath": "C:\\Users\\thiago.falcao.ALUNOS\\locadora_mvc\\locadora_mvc.csproj",
+        "projectPath": "C:\\Users\\thiago.falcao.ALUNOS\\Locadora_MVC\\locadora_mvc.csproj",
         "packagesPath": "C:\\Users\\thiago.falcao.ALUNOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiago.falcao.ALUNOS\\locadora_mvc\\obj\\",
+        "outputPath": "C:\\Users\\thiago.falcao.ALUNOS\\Locadora_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiago.falcao.ALUNOS\\AppData\\Roaming\\NuGet\\NuGet.Config"

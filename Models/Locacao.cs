@@ -4,6 +4,7 @@ using System.Linq;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Repositories;
 
 namespace Models
 {    
@@ -29,8 +30,12 @@ namespace Models
             this.objCliente.addFilmesLocados(listFilmes.Count);
             this.AddQtdFilmesPorLocacao(listFilmes.Count);
             this.AddQtdDeLocacoes(listFilmes);
-
+            RepositoryLocacao.AddLocacao(this);                        
         }
+
+        public static List<Locacao> Locacoes(){
+            return RepositoryLocacao.Locacoes();
+        }                        
 
         public void AddQtdFilmesPorLocacao(int qtd){
             this.qtdFilmesPorLocacao = qtd;

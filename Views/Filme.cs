@@ -17,5 +17,13 @@ namespace View {
             FilmeController.AddFilme(10, "Fargo",               DatasController.FormataData("2011-12-27"), "Musical", 19.23, 20);            
         }     
 
+        public static void GetQtdLocacaoPorFilme(){
+            Console.WriteLine("\n***Quantidade de Locações por Filme***");        
+            foreach (Filme filme in FilmeController.Filmes())
+            {
+                Console.WriteLine(filme);
+            }
+        }             
+
     }
 }

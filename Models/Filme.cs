@@ -35,5 +35,9 @@ namespace Models
             this.qtdLocacoes += qtd;
         }
 
+        public override string ToString(){
+            return $"Filme: {nomeFilme} foi locado {qtdLocacoes}";
+        }                
+
     }
 }

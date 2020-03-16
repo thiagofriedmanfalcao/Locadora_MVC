@@ -12,8 +12,8 @@ namespace View {
             ClienteController.AddCliente(5, "João",    DatasController.FormataData("1988-07-19"), "865.518.360-11", 25); 
         }     
 
-        public static void GetClientes(){
-            Console.WriteLine("***Quantidade de Filmes locados por cada cliente***");
+        public static void GetCliQtdFilmeLocados(){
+            Console.WriteLine("\n***Quantidade de Filmes locados por cada cliente***");
             foreach (Cliente cliente in ClienteController.Clientes())
             {
                 Console.WriteLine(cliente);

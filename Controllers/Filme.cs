@@ -13,6 +13,7 @@ namespace Controllers {
         public static void AddFilme(int idFilme, string nomeFilme, DateTime dtLancamento, string sinopse, double valor, int qtdEstoque){
             new Filme(idFilme, nomeFilme, dtLancamento, sinopse, valor, qtdEstoque);
         }
+
     
     }
 }
